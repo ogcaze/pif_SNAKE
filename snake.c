@@ -3,7 +3,9 @@
 #include <windows.h>
 #include <conio.h>
 #include <time.h>
+//funcoes abaixo
 
+//funcoes acima
 int cobra[300][2]; //matriz do corpinho da cobra
 int maca[2]; //matriz da maçã
 int pontos = 1; //pontuação do player
